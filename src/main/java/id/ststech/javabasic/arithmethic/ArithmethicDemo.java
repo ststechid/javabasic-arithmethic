@@ -25,13 +25,13 @@ public class ArithmethicDemo {
 		System.out.print("Masukkan angka pertama: ");
 		input = scanner.nextLine();
 
-		// Convert inputted string into integer
+		// Convert inputed string into integer
 		angka1 = Integer.parseInt(input);
 
 		System.out.print("Masukkan angka kedua: ");
 		input = scanner.nextLine();
 
-		// Convert inputted string into integer
+		// Convert inputed string into integer
 		angka2 = Integer.parseInt(input);
 
 		// Prints output for each operation
