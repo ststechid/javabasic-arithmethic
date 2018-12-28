@@ -44,6 +44,8 @@ public class ArithmethicDemo {
 		System.out.println(angka1 + " / " + angka2 + " = " + (angka1 / (float)angka2));
 		
 		System.out.println(angka1 + " % " + angka2 + " = " + (angka1 % angka2));
+		
+		scanner.close();
 	}
 
 }
